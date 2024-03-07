@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/home" android:checked="true"
+        android:title="@string/home"
+        android:icon="@drawable/ic_baseline_g_translate_24"
+        />
+
+    <item android:id="@+id/favorite" android:checked="true" android:title="@string/favorite"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        />
+
+    <item android:id="@+id/currency" android:checked="true" android:title="@string/currency"
+        android:icon="@drawable/ic_baseline_currency_exchange_24"
+        />
+
+
+</menu>

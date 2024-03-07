@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Traduceme</string>
+
+    <string name="home">Traducir</string>
+    <string name="favorite">Favorito</string>
+    <string name="currency">Divisa</string>
+    <string name="settings">Ajustes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+<!--    <string name="hello_blank_fragment">Hola fragmento en blanco</string>-->
+    <string name="last_updated">Última actualización</string>
+    <string name="next_update">Próxima actualización</string>
+    <string name="baseCurrency">Moneda base</string>
+    <string name="aud">AUD</string>
+    <string name="ndz">NDZ</string>
+    <string name="usd">Dólar estadounidense</string>
+    <string name="gbp">GBP</string>
+    <string name="eur">EUR</string>
+    <string name="cad">CANALLA</string>
+    <string name="mxn">MXN</string>
+    <string name="translate_from">Traducir del</string>
+    <string name="translate_to">Traducir a</string>
+    <string name="detect_language">Detectar idioma</string>
+    <string name="all_languages">Todos los idiomas</string>
+    <string name="default_target_language">Spanish</string>
+
+    <string name="fetch_data_fail">Error al recuperar datos..</string>
+
+    <string name="empty_string_checking">Por favor ingresa algo que quieras traducir</string>
+    <string name="added_to_favorite_list">Esta traducción ha sido añadida a tu lista de favoritos.</string>
+    <string name="copied_to_clipboard">El texto ha sido copiado a su portapapeles.</string>
+    <string name="error_from_language">No se puede detectar el idioma que desea traducir..</string>
+    <string name="error_copy_translated_language">Aún no has traducido nada</string>
+
+    <string name="delete_button">Borrar</string>
+    <string name="translate">Traducir</string>
+</resources>

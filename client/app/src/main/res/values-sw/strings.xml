@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TranslateMe</string>
+
+    <string name="home">Tafsiri</string>
+    <string name="favorite">Kipendwa</string>
+    <string name="currency">Sarafu</string>
+    <string name="settings">Mipangilio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <string name="last_updated">Ilisasishwa Mwisho</string>
+    <string name="next_update">Sasisho Inayofuata</string>
+    <string name="baseCurrency">Sarafu ya Msingi</string>
+    <string name="aud">AUD: </string>
+    <string name="ndz">NDZ: </string>
+    <string name="usd">USD: </string>
+    <string name="gbp">GBP: </string>
+    <string name="eur">EUR: </string>
+    <string name="cad">CAD: </string>
+    <string name="mxn">MXN: </string>
+    <string name="translate_from">Tafsiri kutoka</string>
+    <string name="translate_to">Tafsiri Kwa</string>
+    <string name="detect_language">Tambua Lugha</string>
+    <string name="all_languages">Lugha Zote</string>
+    <string name="default_target_language">Spanish</string>
+
+    <string name="fetch_data_fail">Imeshindwa kuleta data..</string>
+
+    <string name="empty_string_checking">Tafadhali weka kitu unachotaka kutafsiri</string>
+    <string name="added_to_favorite_list">Tafsiri hii imeongezwa kwenye orodha yako uipendayo.</string>
+    <string name="copied_to_clipboard">Maandishi yamenakiliwa kwenye ubao wako wa kunakili.</string>
+    <string name="error_from_language">Lugha unayotaka kutafsiri haiwezi kutambuliwa.</string>
+    <string name="error_copy_translated_language">You have not ye translated anything</string>
+    <string name="delete_button">Futa</string>
+    <string name="translate">Tafsiri</string>
+</resources>

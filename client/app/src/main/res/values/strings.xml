@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TranslateMe</string>
+
+    <string name="home">Translate</string>
+    <string name="favorite">Favorite</string>
+    <string name="currency">Currency</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <string name="last_updated">Last Updated</string>
+    <string name="next_update">Next Update</string>
+    <string name="aud">AUD: </string>
+    <string name="ndz">NDZ: </string>
+    <string name="usd">USD: </string>
+    <string name="gbp">GBP: </string>
+    <string name="eur">EUR: </string>
+    <string name="cad">CAD: </string>
+    <string name="mxn">MXN: </string>
+    <string name="translate_from">Translate from</string>
+    <string name="translate_to">Translate To</string>
+    <string name="detect_language">Detect Language</string>
+    <string name="all_languages">All Languages</string>
+    <string name="default_target_language">Spanish</string>
+
+    <string name="fetch_data_fail">Fetch data failed..</string>
+
+    <string name="empty_string_checking">Please enter something you want to translate</string>
+    <string name="added_to_favorite_list">This translation has been added to your favorite list.</string>
+    <string name="copied_to_clipboard">The text has been copied to your clipboard.</string>
+    <string name="error_from_language">The language you want to translate cannot be detected.</string>
+    <string name="error_copy_translated_language">You have not yet translated anything</string>
+    <string name="delete_button">Delete</string>
+    <string name="translate">Translate</string>
+    <string name="baseCurrency">USD: $1.00</string>
+
+</resources>
